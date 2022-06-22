@@ -15,3 +15,5 @@ The dataset with its description can be found on the site https://www.kaggle.com
 - Which age range of patients showed up for the appointment the most?
 - How does the days between the scheduled and appointment day affects show up rate?
 
+
+Here is the (Jupyter Notebook)[https://github.com/Holyboy9/NoShowCaseAppointment/blob/master/Review_data.ipynb] 

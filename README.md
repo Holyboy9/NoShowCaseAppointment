@@ -9,9 +9,9 @@ The dataset with its description can be found on the site https://www.kaggle.com
 # Questions
 - What is the percentage of patients that missed their appointment?
 - How does attendance or missing of appointments vary by gender?
-Do patients enrolled in Brazilian welfare program tends to show up for the appointments?
-Which days of the week were appointments mostly scheduled?
-What is the age distribution of patients scheduled for the appointment?
-Which age range of patients showed up for the appointment the most?
-How does the days between the scheduled and appointment day affects show up rate?
+- Do patients enrolled in Brazilian welfare program tends to show up for the appointments?
+- Which days of the week were appointments mostly scheduled?
+- What is the age distribution of patients scheduled for the appointment?
+- Which age range of patients showed up for the appointment the most?
+- How does the days between the scheduled and appointment day affects show up rate?
 
